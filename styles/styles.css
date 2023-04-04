@@ -1,0 +1,44 @@
+body{
+    background-image: url("../assets/images/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: -10rem;
+
+}
+
+
+    
+.cuerpo{
+    display: flex;
+    flex-direction: row;
+    background: rgb(255, 255, 255, 0.3);
+
+}
+.cuerpo__text{
+    color: black;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0px 100px 0px;
+    
+}
+.cuerpo__paginas{
+    width: 100px;
+    text-align: center;
+}
+.cuerpo_futbol__text{
+    color: black;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0px 100px 0px;
+}
+
+.piepagina{
+    height: 1%;
+    margin: 1px;
+    padding: 1rem;
+
+}
+a{
+    color: white;
+    text-align: center;
+}
